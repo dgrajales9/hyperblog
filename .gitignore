@@ -1,0 +1,7 @@
+# para omitir archivos por la extension
+*.jpg
+*.png
+
+# para omitir folders
+/vendor
+explorations
