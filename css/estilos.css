@@ -43,13 +43,19 @@ body{
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> footer
 #footer{
     background-color: #7777;
     color: white;
     text-align: center;
+<<<<<<< HEAD
 =======
 #post{
     background: white;
     padding: 1em;
 >>>>>>> header
+=======
+>>>>>>> footer
 }
